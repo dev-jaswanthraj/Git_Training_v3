@@ -1,2 +1,3 @@
 This is Sample File 2.
 For Reset Example.
+This Compare test in SampleFile2
