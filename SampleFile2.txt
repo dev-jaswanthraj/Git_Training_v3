@@ -1,1 +1,2 @@
 This is Sample File 2.
+For Reset Example.
