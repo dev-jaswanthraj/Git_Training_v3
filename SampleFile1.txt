@@ -1,2 +1,3 @@
 This is Sample File 1.
 For test purpose.
+For Reset Example.
